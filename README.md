@@ -6,7 +6,9 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## Screenshots
 
-!["Screenshot of Edits page"](https://github.com/halyosyx/tinyapp/blob/master/docs/edit-page.png)
+!["Screenshot of Tweeter Desktop"](https://github.com/halyosyx/Tweeter/blob/master/TweeterDesktop.png)
+
+!["Screenshot of Tweeter Mobile"](https://github.com/halyosyx/Tweeter/blob/master/TweeterMobile.png)
 
 ## Dependencies
 
