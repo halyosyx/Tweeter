@@ -1,0 +1,64 @@
+
+.container {
+  position: relative;
+  top: 45px;
+}
+
+form {
+  width: 95%;
+  margin: auto;
+}
+
+.error {
+  width: 95%;
+  margin: auto;
+  display: none;
+}
+
+.error-message {
+  border: 2px solid red;
+  padding-right: 1em;
+  padding-left: 1em;
+  color: red;
+}
+
+textarea {
+  resize: none;
+  width: 100%;
+  margin-top: 0.5em;
+  font-size: 20px;
+  border:3px solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+
+}
+textarea:focus, input:focus{
+  outline: none;
+}
+
+.formDiv {
+  margin-top: 0.4em;
+}
+
+button {
+  position: relative;
+  background-color: #4056A1;
+  border: none;
+  font-family: 'Bungee', sans-serif;
+  font-size: 16px;
+  padding: 5px 10px;
+  color: white;
+  bottom: 5px;
+
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(79, 123, 153);
+}
+
+.counter {
+  font-family: 'Bungee', sans-serif;
+  float: right;
+}
