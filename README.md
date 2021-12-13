@@ -9,15 +9,15 @@ Tweeter is a simple, single-page Twitter clone.
 !["Screenshot of Tweeter Mobile"](https://github.com/halyosyx/Tweeter/blob/master/TweeterMobile.png)
 
 ##Front-end
-HTML
-CSS
-JS
-jQuery
-AJAX
+- HTML
+- CSS
+- JS
+- jQuery
+- AJAX
 
 ##Back-end
-Node
-Express
+- Node
+- Express
 
 ## Dependencies
 
